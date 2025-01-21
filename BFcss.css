@@ -388,12 +388,12 @@
 }
 
 .game-interface>.death-cont::before {
-	content: "KILLED BY";
+	content: "ED BY";
 	font-weight: bold;
 	margin-bottom: 0.5rem;
 }
 
-.user-card>.bottom>.bottom-left>.label-killed {
+.user-card>.bottom>.bottom-left>.label-ed {
 	display: none;
 }
 
